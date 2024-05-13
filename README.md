@@ -15,9 +15,12 @@ Basic **Text** Clipboard Manager on Python. :)
 
 ### Installation
 
-1. Clone the repos (or download Zip and run):
+A. Download the Python file and run in your own compiler. **(Recommended)**
+
+B. Clone the repo:
    ```bash
    git clone https://github.com/Ijtihed/Text-Clipboard-Manager.git
+   ```
 
 ### LICENSE
 
